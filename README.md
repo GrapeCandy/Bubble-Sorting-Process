@@ -6,7 +6,7 @@ This post is based on Baikjun algorithm **No. 11920.** [Shortcut](https://www.ac
 # What is Bubble sorting?
 
 
-<img src="https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png" width="90%"></img> [Reference] : https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html
+<img src="https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png" width="90%"></img> [Reference](https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html)
 
 
 # Concepts used in writing code
