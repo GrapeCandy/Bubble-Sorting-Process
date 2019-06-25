@@ -13,12 +13,10 @@ This post is based on Baikjun algorithm **No. 11920.** [Shortcut](https://www.ac
 ## priority queue 
 1. Use ```#include <queue>``` library
 2. By default, it is sorted in descending order.
-3. If you want to use ascending order, use the following:
-  ``` #include <queue>
-      #include <functional>
-      
-      std::priority_queue<int, std::vector<int>, std::greater<int>> q;```
-      The above example is an example of ascending alignment to one int-type factor.
+3. If you want to use ascending order, use the following:```#include <queue>  #include <functional>std::priority_queue<int, std::vector<int>, std::greater<int>> q;```    
+The above example is an example of ascending alignment to one int-type factor.
+
+
 4. Function
   ```push()``` : Insert Factor in Queue
   ```empty()``` : Check if the queue is empty (true if empty)
