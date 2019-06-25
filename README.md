@@ -1,11 +1,16 @@
 # Bubble-Sorting-Process
 Print Bubble Sorting Process
 
-This post is based on Baikjun algorithm **No. 11920.** [Shortcut](https://www.acmicpc.net/problem/11920)
-
-# What is Bubble sorting?
-
-
+This post is based on Baikjun algorithm **No. 11920.** [Shortcut](https://www.acmicpc.net/problem/11920)  
+  
+# Input Format Example  
+  6 2  
+  9 6 2 7 1 5  
+    
+# Output Format Example  
+  2 6 1 5 7 9  
+    
+# What is Bubble sorting?  
 <img src="https://gmlwjd9405.github.io/images/algorithm-bubble-sort/bubble-sort.png" width="90%"></img>  
 [Reference](https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html)
 
