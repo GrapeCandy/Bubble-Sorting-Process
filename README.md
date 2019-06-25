@@ -20,7 +20,7 @@ This post is based on Baikjun algorithm **No. 11920.** [Shortcut](https://www.ac
 ```std::priority_queue<int, std::vector<int>, std::greater<int>> q;```  
 The above example is an example of ascending alignment to one int-type factor.    
 
-4. Function
+4. Function  
   ```push()``` : Insert Factor in Queue  
   ```empty()``` : Check if the queue is empty (true if empty)  
   ```top()``` : Return the first element of the queue.  
